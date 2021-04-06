@@ -1,2 +1,4 @@
-# Searching_Sorting
-All searching and sorting algorithms.
+# Searching_Sorting 
+
+Common searching and sorting algorithms
+Using Java.
